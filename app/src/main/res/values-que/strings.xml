@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ayllu Yachay</string>
+    <string name="logo_description">Ruwanakuna</string>
+    <string name="user_image_description">Ruwanakuna ruwana</string>
+    <string name="nombre_del_usuario">Runa Sutin</string>
+    <string name="mi_juntos">Ñuqanchik</string>
+    <string name="postular">Postula</string>
+    <string name="chat">Rimay</string>
+    <string name="consultar_sisfoh">SISFOH ruwanakunata ruwachiy</string>
+    <string name="proceso_padron">Ruwanakuna chaymanta</string>
+    <string name="consultar_afiliacion">Ayllu ruwanakuna ruwachiy</string>
+    <string name="select_language">Simita Aykuy</string>
+    <string name="spanish">Castilla simi</string>
+    <string name="quechua">Runasimi</string>
+
+    <string name="dni_label">DNI:</string>
+    <string name="fecha_emision_label">Kallpachiy p unchaw</string>
+    <string name="ingresar">Yaykuy</string>
+    <string name="consultar">Qhaway</string>
+
+    <string name="aceptar">Riqsinakuy</string>
+    <string name="development_title">Ruwayninchik Manaraq Ruwasqa</string>
+    <string name="development_message">Kay ruwayninchik manaraq ruwasqa.</string>
+
+    <string name="salir">Llikay</string>
+</resources>

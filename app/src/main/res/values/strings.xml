@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SocialHelpUPN</string>
+    <string name="logo_description">Logotipo</string>
+    <string name="user_image_description">Imagen del usuario</string>
+    <string name="nombre_del_usuario">Nombre del Usuario</string>
+    <string name="mi_juntos">Mi Juntos</string>
+    <string name="postular">Postular</string>
+    <string name="chat">Chat</string>
+    <string name="consultar_sisfoh">Consultar SISFOH</string>
+    <string name="proceso_padron">Proceso del Padrón</string>
+    <string name="consultar_afiliacion">Consultar si estoy afiliado</string>
+    <string name="select_language">Seleccionar Idioma</string>
+    <string name="spanish">Español</string>
+    <string name="quechua">Quechua</string>
+
+    <string name="dni_label">DNI:</string>
+    <string name="fecha_emision_label">FECHA DE EMISIÓN</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="development_title">Funcionalidad en Desarrollo</string>
+    <string name="development_message">Esta funcionalidad se encuentra en desarrollo.</string>
+
+    <string name="salir">Salir</string>
+
+
+</resources>
